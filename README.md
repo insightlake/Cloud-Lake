@@ -17,3 +17,26 @@ Cloud Lake solution hides the complexity of building enterprise data lake soluti
 2. Tenants
 
 3. Data Usage 
+
+Installation
+------
+* Download or clone the repository. 
+* Run bin/insightlake command.
+* Open browser with URL as http://localhost:8080/
+* Change configuration in /conf folder to set different ports
+* By default H2 database is used, you can change the database details in jdbc.properties file
+
+
+License
+------
+InsightLake Report Maker is closed source but distributed to be used freely. Please contact contact@insightlake.com for details.
+
+Getting Help
+----------
+
+You can get help easily :
+Community - Google Groups
+Slack Channel
+Twitter
+Facebook
+Email: contact@insightlake.com
