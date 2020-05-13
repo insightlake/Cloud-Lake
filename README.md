@@ -14,11 +14,38 @@ Cloud Lake solution hides the complexity of building enterprise data lake soluti
 
 1. Designer
 
-<img style="width:100%;" src="images/datacatalog.jpeg">
+<img style="width:100%;" src="images/designer.png">
 
-2. Tenants
+1. Script
 
-3. Data Usage 
+<img style="width:100%;" src="images/scripts.png">
+
+3. Template
+
+<img style="width:100%;" src="images/templates.png">
+
+4. Dashboard 
+
+<img style="width:100%;" src="images/dashboard.png">
+5. Data Usage 
+
+<img style="width:100%;" src="images/datausage.png">
+
+6. Catalogs 
+
+<img style="width:100%;" src="images/catalog.png">
+
+7. Tenants 
+
+<img style="width:100%;" src="images/tenants.png">
+
+8. Resources 
+
+<img style="width:100%;" src="images/resources.png">
+
+9. Workflow 
+
+<img style="width:100%;" src="images/workflow.png">
 
 Installation
 ------
