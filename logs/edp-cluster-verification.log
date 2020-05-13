@@ -1,0 +1,27 @@
+2020-05-11 15:56:02.838  INFO 24194 --- [main] c.i.e.streams.designer.app.Application   : Starting Application v1.0 on root with PID 24194 (/home/admin1/Project/Insighlake-Repositories/Kafka-Designer/libs/edp-kafka-designer-ui-1.0.jar started by admin1 in /home/admin1/Project/Insighlake-Repositories/Kafka-Designer/logs)
+2020-05-11 15:56:02.864  INFO 24194 --- [main] c.i.e.streams.designer.app.Application   : No active profile set, falling back to default profiles: default
+2020-05-11 15:56:03.015  INFO 24194 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@424c0bc4: startup date [Mon May 11 15:56:03 IST 2020]; root of context hierarchy
+2020-05-11 15:56:05.909  INFO 24194 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-11 15:56:05.984  INFO 24194 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-11 15:56:05.985  INFO 24194 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.29
+2020-05-11 15:56:06.093  INFO 24194 --- [localhost-startStop-1] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+2020-05-11 15:56:06.300  INFO 24194 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-11 15:56:06.300  INFO 24194 --- [localhost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3285 ms
+2020-05-11 15:56:06.431  INFO 24194 --- [localhost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2020-05-11 15:56:06.436  INFO 24194 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2020-05-11 15:56:06.438  INFO 24194 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2020-05-11 15:56:06.438  INFO 24194 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2020-05-11 15:56:06.438  INFO 24194 --- [localhost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2020-05-11 15:56:06.584  INFO 24194 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2020-05-11 15:56:07.003  INFO 24194 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@424c0bc4: startup date [Mon May 11 15:56:03 IST 2020]; root of context hierarchy
+2020-05-11 15:56:07.174  INFO 24194 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2020-05-11 15:56:07.175  INFO 24194 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2020-05-11 15:56:07.199  INFO 24194 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2020-05-11 15:56:07.204  INFO 24194 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2020-05-11 15:56:07.265  INFO 24194 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2020-05-11 15:56:07.549  INFO 24194 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2020-05-11 15:56:07.658  INFO 24194 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-11 15:56:07.662  INFO 24194 --- [main] c.i.e.streams.designer.app.Application   : Started Application in 5.724 seconds (JVM running for 6.39)
+2020-05-11 15:56:48.286  INFO 24194 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2020-05-11 15:56:48.287  INFO 24194 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization started
+2020-05-11 15:56:48.319  INFO 24194 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization completed in 32 ms

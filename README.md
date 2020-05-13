@@ -14,6 +14,8 @@ Cloud Lake solution hides the complexity of building enterprise data lake soluti
 
 1. Designer
 
+<img style="width:100%;" src="images/datacatalog.jpeg">
+
 2. Tenants
 
 3. Data Usage 
