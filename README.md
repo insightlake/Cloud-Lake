@@ -18,7 +18,7 @@ Cloud Lake solution hides the complexity of building enterprise data lake soluti
 
 1. Script
 
-<img style="width:100%;" src="images/scripts.png">
+<img style="width:100%;" src="images/script.png">
 
 3. Template
 
