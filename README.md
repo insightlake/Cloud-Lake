@@ -1,5 +1,7 @@
 # Cloud-Lake
-Cloud Data Lake
+  * Cloud Lake Designer allows drag and drop of components to design the data lake.
+  * Secure entrprise data lake.
+  * Cloud Lake solution hides the complexity of building enterprise data lake solution.
 
 ## Introduction
 Cloud Lake allows provisioning of secure entrprise data lake easy on different cloud platforms like AWS, GCP and Azure.
