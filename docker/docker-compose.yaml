@@ -1,0 +1,12 @@
+version: "2.0"
+
+services:
+  cloudlakebacked-backend-service:
+    build:
+      context: ../libs
+      dockerfile: ./cloudlakebacked
+    ports:
+    - 9494:9494
+
+
+
