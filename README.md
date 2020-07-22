@@ -59,9 +59,9 @@ Installation
 Installation using docker 
 ------
 * Download or clone the repository. 
-* cd docker
-* docker-compose -f docker-compose.yaml up --build 
-* Open browser with URL as http://localhost:9494/
+* cd /docker
+* Run `docker-compose -f docker-compose.yaml up --build`
+* Open browser with URL as http://localhost:9494/insightlake/
 
 
 License
