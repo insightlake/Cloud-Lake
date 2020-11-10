@@ -48,6 +48,10 @@ Cloud Lake solution hides the complexity of building enterprise data lake soluti
 
 <img style="width:100%;" src="images/workflow.png">
 
+
+To learn more, check out [http://www.insightlake.com/cloud-lake.html](http://www.insightlake.com/cloud-lake.html)
+
+
 Installation
 ------
 * Download or clone the repository. 
