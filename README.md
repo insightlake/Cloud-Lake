@@ -70,7 +70,7 @@ Installation using docker
 
 License
 ------
-InsightLake Report Maker is closed source but distributed to be used freely. Please contact contact@insightlake.com for details.
+InsightLake Cloud Lake is closed source but distributed to be used freely. Please contact contact@insightlake.com for details.
 
 Getting Help
 ----------
