@@ -5,46 +5,51 @@
 ## Introduction
 Cloud Lake allows provisioning of secure entrprise data lake easy on different cloud platforms like AWS, GCP and Azure.
 
-## Designer
-Designer allows drag and drop of components to design the data lake. Operations team can deploy the components from the designer tool.
-
 ## Security
 Cloud Lake solution hides the complexity of building enterprise data lake solution by plumbing different services together seamlessly.
 
 ## Pages
 
-1. Designer
+### Designer
+Designer allows drag and drop of components to design the data lake. Operations team can deploy the components from the designer tool.
 
 <img style="width:100%;" src="images/designer.png">
 
-1. Script
+### Script
+Cloud Lake solution allows user to view and download the cloud script
 
 <img style="width:100%;" src="images/script.png">
 
-3. Template
+### Template
+Cloud Lake solution allows to create template for defining designer and cloud script
 
 <img style="width:100%;" src="images/templates.png">
 
-4. Dashboard 
+### Dashboard 
+Dashboard is responsible for showing current status of solution like resource summary, Planned maintenance
 
 <img style="width:100%;" src="images/dashboard.png">
-5. Data Usage 
+
+### Data Usage 
 
 <img style="width:100%;" src="images/datausage.png">
 
-6. Catalogs 
+### Catalogs 
+Cloud Lake solutions provide catalogs which contain basic categories like Compute, Container, Storage, AI, Analytics etc.
 
 <img style="width:100%;" src="images/catalog.png">
 
-7. Tenants 
+### Tenants 
+Tenants bascically responsible for creating APP by using resources provided by cloud lake solution.
 
 <img style="width:100%;" src="images/tenants.png">
 
-8. Resources 
+### Resources 
+Cloud Lake solution create the resources from compute, container, storage, AI, Analytics etc.
 
 <img style="width:100%;" src="images/resources.png">
 
-9. Workflow 
+### Workflow 
 
 <img style="width:100%;" src="images/workflow.png">
 
